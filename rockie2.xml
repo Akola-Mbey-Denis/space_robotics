@@ -1,0 +1,196 @@
+<mujoco model="rocker_bogie_6joint">
+  <compiler angle="degree" coordinate="local" inertiafromgeom="true"/>
+  <option gravity="0 0 -1.658" integrator="RK4" timestep="0.001"/>
+  
+  <default>
+    <geom contype="1" conaffinity="1" friction="1 0.1 0.1"/>
+    <joint damping="0.1" armature="0.01"/>
+  </default>
+
+  <!-- Assets -->
+  <asset>
+    <texture name="terrain_tex" type="2d" file="terrain.png"/>
+    <texture name="terrain_fallback" type="2d" builtin="checker" width="512" height="512" rgb1="0.4 0.3 0.2" rgb2="0.3 0.2 0.1"/>
+    <material name="terrain_mat" texture="terrain_tex" texrepeat="10 10"/>
+    <material name="chassis_mat" rgba="0.8 0.1 0.1 1"/>
+    <material name="rocker_mat" rgba="0.2 0.6 0.8 1"/>
+    <material name="bogie_mat" rgba="0.3 0.8 0.3 1"/>
+    <material name="wheel_mat" rgba="0.1 0.1 0.1 1"/>
+    <material name="diff_mat" rgba="0.9 0.7 0.1 1"/>
+  </asset>
+
+  <!-- Ground -->
+  <worldbody>
+    <light pos="0 0 3" dir="0 0 -1" diffuse="0.8 0.8 0.8"/>
+    <geom name="ground" type="plane" size="20 20 0.1" material="terrain_mat"/>
+    
+    <!-- Chassis (Main Body) -->
+    <body name="chassis" pos="0 0 0.32">
+      <freejoint/>
+      <geom name="chassis_main" type="box" size="0.35 0.25 0.05" rgba="0.8 0.1 0.1 1" mass="10"/>
+      <inertial pos="0 0 0" mass="10" diaginertia="0.2 0.3 0.4"/>
+      
+      <!-- Stereo Camera Mast (rigidly attached to chassis, no joint) -->
+      <body name="camera_mast" pos="0.25 0 0.05">
+        <geom name="mast" type="cylinder" fromto="0 0 0 0 0 0.25" size="0.015" rgba="0.5 0.5 0.5 1" mass="0.3"/>
+        <inertial pos="0 0 0.125" mass="0.3" diaginertia="0.003 0.003 0.0001"/>
+        
+        <!-- Stereo Camera Bar (at top of mast) -->
+        <body name="stereo_bar" pos="0 0 0.25">
+          <geom name="camera_bar" type="box" size="0.12 0.03 0.015" rgba="0.3 0.3 0.3 1" mass="0.2"/>
+          <inertial pos="0 0 0" mass="0.2" diaginertia="0.001 0.001 0.001"/>
+          
+          <!-- Left Camera -->
+          <camera name="stereo_left" pos="0 0.06 0" quat="0.707 0 0.707 0" fovy="60" mode="fixed"/>
+          
+          <!-- Right Camera -->
+          <camera name="stereo_right" pos="0 -0.06 0" quat="0.707 0 0.707 0" fovy="60" mode="fixed"/>
+          
+          <!-- Center Camera (optional, for navigation) -->
+          <!-- <camera name="nav_cam" pos="0 0 0" quat="0.707 0 0.707 0" fovy="60" mode="fixed"/> -->
+        </body>
+      </body>
+      
+      <!-- Site for IMU sensors -->
+      <site name="chassis" pos="0 0 0" size="0.01"/>
+      
+      <!-- Differential Bar (connects left and right rockers) -->
+      <body name="differential_bar" pos="0 0 -0.08">
+        <geom name="diff_bar" type="cylinder" fromto="0 -0.18 0 0 0.18 0" size="0.015" material="diff_mat" mass="0.5"/>
+        <inertial pos="0 0 0" mass="0.5" diaginertia="0.01 0.01 0.001"/>
+        
+        <!-- LEFT SIDE -->
+        <!-- Left Rocker (front part of suspension) -->
+        <body name="rocker_left" pos="0 0.15 0">
+          <joint name="rocker_left_joint" type="hinge" axis="0 1 0" range="-45 45" damping="0.5"/>
+          <geom name="rocker_left_link" type="capsule" fromto="0 0 0 0.4 0 0" size="0.02" material="rocker_mat" mass="1.5"/>
+          <inertial pos="0.2 0 0" mass="1.5" diaginertia="0.02 0.02 0.001"/>
+          
+          <!-- Front Wheel (at front end of rocker) -->
+          <body name="wheel_front_left" pos="0.4 0 0">
+            <joint name="wheel_front_left_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+            <geom name="wheel_fl" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+            <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+          </body>
+          
+          <!-- Middle Wheel (at rocker pivot point, where bogie attaches) -->
+          <!-- <body name="wheel_middle_left" pos="0 0 0">
+            <joint name="wheel_middle_left_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+            <geom name="wheel_ml" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+            <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+          </body> -->
+
+          <body name="wheel_middle_left" pos="0 0 -0.08">
+  <joint name="wheel_middle_left_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+  <geom name="wheel_ml" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+  <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+</body>
+          
+          <!-- Left Bogie (rear part of suspension, attached at rocker pivot) -->
+          <body name="bogie_left" pos="0 0 0">
+            <joint name="bogie_left_joint" type="hinge" axis="0 1 0" range="-45 45" damping="0.3"/>
+            <geom name="bogie_left_link" type="capsule" fromto="0 0 0 -0.3 0 0" size="0.018" material="bogie_mat" mass="1.0"/>
+            <inertial pos="-0.15 0 0" mass="1.0" diaginertia="0.01 0.01 0.001"/>
+            
+            <!-- Rear Wheel (at end of bogie) -->
+            <body name="wheel_rear_left" pos="-0.3 0 0">
+              <joint name="wheel_rear_left_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+              <geom name="wheel_rl" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+              <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+            </body>
+          </body>
+        </body>
+        
+        <!-- RIGHT SIDE (mirror of left) -->
+        <!-- Right Rocker -->
+        <body name="rocker_right" pos="0 -0.15 0">
+          <joint name="rocker_right_joint" type="hinge" axis="0 1 0" range="-45 45" damping="0.5"/>
+          <geom name="rocker_right_link" type="capsule" fromto="0 0 0 0.4 0 0" size="0.02" material="rocker_mat" mass="1.5"/>
+          <inertial pos="0.2 0 0" mass="1.5" diaginertia="0.02 0.02 0.001"/>
+          
+          <!-- Front Wheel -->
+          <body name="wheel_front_right" pos="0.4 0 0">
+            <joint name="wheel_front_right_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+            <geom name="wheel_fr" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+            <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+          </body>
+          
+          <!-- Middle Wheel -->
+          <!-- <body name="wheel_middle_right" pos="0 0 0">
+            <joint name="wheel_middle_right_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+            <geom name="wheel_mr" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+            <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+          </body>
+           -->
+
+
+<body name="wheel_middle_right" pos="0 0 -0.08">
+  <joint name="wheel_middle_right_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+  <geom name="wheel_mr" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+  <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+</body>
+          <!-- Right Bogie -->
+          <body name="bogie_right" pos="0 0 0">
+            <joint name="bogie_right_joint" type="hinge" axis="0 1 0" range="-45 45" damping="0.3"/>
+            <geom name="bogie_right_link" type="capsule" fromto="0 0 0 -0.3 0 0" size="0.018" material="bogie_mat" mass="1.0"/>
+            <inertial pos="-0.15 0 0" mass="1.0" diaginertia="0.01 0.01 0.001"/>
+            
+            <!-- Rear Wheel -->
+            <body name="wheel_rear_right" pos="-0.3 0 0">
+              <joint name="wheel_rear_right_joint" type="hinge" axis="0 1 0" damping="0.05"/>
+              <geom name="wheel_rr" type="cylinder" size="0.08 0.03" material="wheel_mat" mass="0.5" euler="90 0 0"/>
+              <inertial pos="0 0 0" mass="0.5" diaginertia="0.002 0.002 0.002"/>
+            </body>
+          </body>
+        </body>
+      </body>
+    </body>
+    
+    <!-- External Cameras for Visualization -->
+    <!-- <camera name="side_view" pos="2 2 1" xyaxes="-1 1 0 0 0 1" fovy="45" mode="fixed"/>
+    <camera name="top_view" pos="0 0 3" xyaxes="1 0 0 0 1 0" fovy="60" mode="fixed"/>
+    <camera name="front_view" pos="1.5 0 0.5" xyaxes="0 1 0 0 0 1" fovy="50" mode="fixed"/> -->
+  </worldbody>
+
+  <!-- Actuators for driving wheels -->
+  <actuator>
+    <!-- Left Side Wheels -->
+    <motor name="motor_fl" joint="wheel_front_left_joint" ctrlrange="-5 5" gear="20"/>
+    <motor name="motor_ml" joint="wheel_middle_left_joint" ctrlrange="-5 5" gear="20"/>
+    <motor name="motor_rl" joint="wheel_rear_left_joint" ctrlrange="-5 5" gear="20"/>
+    
+    <!-- Right Side Wheels -->
+    <motor name="motor_fr" joint="wheel_front_right_joint" ctrlrange="-5 5" gear="20"/>
+    <motor name="motor_mr" joint="wheel_middle_right_joint" ctrlrange="-5 5" gear="20"/>
+    <motor name="motor_rr" joint="wheel_rear_right_joint" ctrlrange="-5 5" gear="20"/>
+  </actuator>
+  
+  <!-- Sensors -->
+  <sensor>
+    <!-- Joint Position Sensors (for suspension joints) -->
+    <jointpos name="rocker_left_pos" joint="rocker_left_joint"/>
+    <jointpos name="rocker_right_pos" joint="rocker_right_joint"/>
+    <jointpos name="bogie_left_pos" joint="bogie_left_joint"/>
+    <jointpos name="bogie_right_pos" joint="bogie_right_joint"/>
+    
+    <!-- Wheel velocity sensors -->
+    <jointvel name="wheel_fl_vel" joint="wheel_front_left_joint"/>
+    <jointvel name="wheel_ml_vel" joint="wheel_middle_left_joint"/>
+    <jointvel name="wheel_rl_vel" joint="wheel_rear_left_joint"/>
+    <jointvel name="wheel_fr_vel" joint="wheel_front_right_joint"/>
+    <jointvel name="wheel_mr_vel" joint="wheel_middle_right_joint"/>
+    <jointvel name="wheel_rr_vel" joint="wheel_rear_right_joint"/>
+    
+    <!-- Chassis IMU -->
+    <framepos name="chassis_pos" objtype="body" objname="chassis"/>
+    <framequat name="chassis_quat" objtype="body" objname="chassis"/>
+    <gyro name="chassis_gyro" site="chassis"/>
+    <accelerometer name="chassis_accel" site="chassis"/>
+    
+    <!-- Stereo camera frame sensors (for getting camera poses) -->
+    <framepos name="stereo_left_pos" objtype="camera" objname="stereo_left"/>
+    <framequat name="stereo_left_quat" objtype="camera" objname="stereo_left"/>
+    <framepos name="stereo_right_pos" objtype="camera" objname="stereo_right"/>
+    <framequat name="stereo_right_quat" objtype="camera" objname="stereo_right"/>
+  </sensor>
+</mujoco>
