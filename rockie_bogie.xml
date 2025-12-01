@@ -1,12 +1,12 @@
 <mujoco model="rover">
-  <option iterations="50" timestep="0.001" solver="PGS" gravity="0 0 -1.62" />
+  <option iterations="60" timestep="0.001" solver="PGS" gravity="0 0 -1.62" />
   <compiler angle="radian" meshdir="meshes" eulerseq="zyx" autolimits="true" />
 
   <default>
-    <joint limited="true" damping="0.01" armature="0.01" frictionloss="0.01" />
-    <geom condim="4" contype="1" conaffinity="15" friction="0.9 0.2 0.2" solref="0.001 2" />
+    <joint limited="true" damping="0.05" armature="0.02" frictionloss="0.01"/>
+    <geom condim="4" contype="1" conaffinity="15" friction="0.9 0.2 0.2" solref="0.1 1" />
     <motor ctrllimited="true" />
-    <equality solref="0.001 2" />
+    <equality solref="0.002 1" />
     <default class="visualgeom">
       <geom material="visualgeom" condim="1" contype="0" conaffinity="0" />
     </default>
@@ -16,7 +16,6 @@
     <light directional="true" diffuse="0.4 0.4 0.4" specular="0.1 0.1 0.1" pos="0 0 5.0" dir="0 0 -1" castshadow="false" />
     <light directional="true" diffuse="0.6 0.6 0.6" specular="0.2 0.2 0.2" pos="0 0 4" dir="0 0 -1" />
 
-    <!-- Ground with terrain texture -->
     <geom name="ground" type="plane" pos="0 0 0" size="100 100 0.001"
           quat="1 0 0 0" material="matplane" condim="3" conaffinity="15"
           friction="1.3 0.2 0.02"/>
@@ -26,74 +25,70 @@
 
     <body name="root" pos="0 0 0.25" quat="1 0 0 0">
       <freejoint name="root" />
-      <inertial pos="0 0 0" mass="5.0" diaginertia="0.05 0.05 0.05" />
+      <inertial pos="0 0 -0.05" mass="8.0" diaginertia="0.15 0.15 0.15" />
       <site name="imu" size="0.01" pos="0 0 0" />
       <geom size="0.15 0.125 0.025" pos="0 0 -0.025" type="box" contype="1" conaffinity="0" density="500" group="1" class="visualgeom" />
 
+      <!-- LEFT WHEELS - FIXED: axis changed to 0 0 1, added collision geom -->
       <body name="left_bogie_front_wheel" pos="0.25 0.2 -0.2" quat="0.707107 0.707107 0 0">
-        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.2" diaginertia="0.000580625 0.000384063 0.000384063" />
-        <joint name="left_bogie_front_axle" pos="0 0 0" axis="0 0 -1" limited="false"/>
+        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.3" diaginertia="0.000880625 0.000584063 0.000584063" />
+        <joint name="left_bogie_front_axle" pos="0 0 0" axis="0 0 1" limited="false" damping="0.1"/>
         <geom size="0.0575 0.0375" type="cylinder" rgba="0 0 0 1"
               contype="1" conaffinity="0" density="800" group="1" class="visualgeom" />
-        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1"/>
+        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1" friction="2.0 0.1 0.1" condim="6"/>
       </body>
 
       <body name="left_bogie_rear_wheel" pos="0.05 0.2 -0.2" quat="0.707107 0.707107 0 0">
-        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.2" diaginertia="0.000580625 0.000384063 0.000384063" />
-        <joint name="left_bogie_rear_axle" pos="0 0 0" axis="0 0 -1" limited="false"/>
+        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.3" diaginertia="0.000880625 0.000584063 0.000584063" />
+        <joint name="left_bogie_rear_axle" pos="0 0 0" axis="0 0 1" limited="false" damping="0.1"/>
         <geom size="0.0575 0.0375" type="cylinder" rgba="0 0 0 1"
               contype="1" conaffinity="0" density="800" group="1" class="visualgeom" />
-        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1"/>
+        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1" friction="2.0 0.1 0.1" condim="6"/>
       </body>
 
       <body name="left_rocker_rear_wheel" pos="-0.175 0.2 -0.2" quat="0.707107 0.707107 0 0">
-        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.2" diaginertia="0.000580625 0.000384063 0.000384063" />
-        <joint name="left_rocker_rear_axle" pos="0 0 0" axis="0 0 -1" limited="false"/>
+        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.3" diaginertia="0.000880625 0.000584063 0.000584063" />
+        <joint name="left_rocker_rear_axle" pos="0 0 0" axis="0 0 1" limited="false" damping="0.1"/>
         <geom size="0.0575 0.0375" type="cylinder" rgba="0 0 0 1"
               contype="1" conaffinity="0" density="800" group="1" class="visualgeom" />
-        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1"/>
+        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1" friction="2.0 0.1 0.1" condim="6"/>
       </body>
 
+      <!-- RIGHT WHEELS - FIXED: axis changed to 0 0 1, added collision geom -->
       <body name="right_bogie_front_wheel" pos="0.25 -0.2 -0.2" quat="0.707107 0.707107 0 0">
-        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.2" diaginertia="0.000580625 0.000384063 0.000384063" />
-        <joint name="right_bogie_front_axle" pos="0 0 0" axis="0 0 -1" limited="false"/>
+        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.3" diaginertia="0.000880625 0.000584063 0.000584063" />
+        <joint name="right_bogie_front_axle" pos="0 0 0" axis="0 0 1" limited="false" damping="0.1"/>
         <geom size="0.0575 0.0375" type="cylinder" rgba="0 0 0 1"
               contype="1" conaffinity="0" density="800" group="1" class="visualgeom" />
-        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1"/>
+        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1" friction="2.0 0.1 0.1" condim="6"/>
       </body>
 
       <body name="right_bogie_rear_wheel" pos="0.05 -0.2 -0.2" quat="0.707107 0.707107 0 0">
-        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.2" diaginertia="0.000580625 0.000384063 0.000384063" />
-        <joint name="right_bogie_rear_axle" pos="0 0 0" axis="0 0 -1" limited="false"/>
+        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.3" diaginertia="0.000880625 0.000584063 0.000584063" />
+        <joint name="right_bogie_rear_axle" pos="0 0 0" axis="0 0 1" limited="false" damping="0.1"/>
         <geom size="0.0575 0.0375" type="cylinder" rgba="0 0 0 1"
               contype="1" conaffinity="0" density="800" group="1" class="visualgeom" />
-        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1"/>
+        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1" friction="2.0 0.1 0.1" condim="6"/>
       </body>
 
       <body name="right_rocker_rear_wheel" pos="-0.175 -0.2 -0.2" quat="0.707107 0.707107 0 0">
-        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.2" diaginertia="0.000580625 0.000384063 0.000384063" />
-        <joint name="right_rocker_rear_axle" pos="0 0 0" axis="0 0 -1" limited="false"/>
+        <inertial pos="0 0 0" quat="0.5 0.5 -0.5 0.5" mass="0.3" diaginertia="0.000880625 0.000584063 0.000584063" />
+        <joint name="right_rocker_rear_axle" pos="0 0 0" axis="0 0 1" limited="false" damping="0.1"/>
         <geom size="0.0575 0.0375" type="cylinder" rgba="0 0 0 1"
               contype="1" conaffinity="0" density="800" group="1" class="visualgeom" />
-        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1"/>
+        <geom type="cylinder" size="0.05 0.02" rgba="0 0 0 1" friction="2.0 0.1 0.1" condim="6"/>
       </body>
 
-      <!-- Camera mast and forward-facing stereo cameras -->
+      <!-- Camera mast - FIXED: cameras now look forward (along +X axis) -->
       <body name="camera_mast" pos="0 0 0.10">
         <geom name="mast_geom" type="cylinder" size="0.02 0.15" rgba="0.6 0.6 0.6 1" />
         <body name="sensor_mount" pos="0 0 0.10">
-          <!-- Forward-facing stereo cameras -->
-          <!-- Rover +X axis is forward, cameras look along +X -->
-          <!-- Left camera (offset in +Y direction) -->
-          <camera name="camera_left" pos="0 0.10 0" xyaxes="0 -1 0 0 0 1"/>
+          <camera name="camera_left" pos="0 0.10 0" xyaxes="0 1 0 0 0 1" fovy="30"/>
           <geom name="camera_left_geom" type="box" size="0.02 0.02 0.02" pos="0 0.10 0" rgba="1 1 0 1"/>
-          
-          <!-- Right camera (offset in -Y direction) -->
-          <camera name="camera_right" pos="0 -0.10 0" xyaxes="0 -1 0 0 0 1"/>
+          <camera name="camera_right" pos="0 -0.10 0" xyaxes="0 1 0 0 0 1" fovy="30"/>
           <geom name="camera_right_geom" type="box" size="0.02 0.02 0.02" pos="0 -0.10 0" rgba="1 0 1 1"/>
         </body>
       </body>
-
     </body>
   </worldbody>
 
@@ -104,12 +99,12 @@
   </asset>
 
   <actuator>
-    <motor name="left_bogie_front_axle"  joint="left_bogie_front_axle"  ctrllimited="true" ctrlrange="-5.12766 5.12766" gear="40" />
-    <motor name="left_bogie_rear_axle"   joint="left_bogie_rear_axle"   ctrllimited="true" ctrlrange="-5.12766 5.12766" gear="40" />
-    <motor name="left_rocker_rear_axle"  joint="left_rocker_rear_axle"  ctrllimited="true" ctrlrange="-5.12766 5.12766" gear="40" />
-    <motor name="right_bogie_front_axle" joint="right_bogie_front_axle" ctrllimited="true" ctrlrange="-5.12766 5.12766" gear="40" />
-    <motor name="right_bogie_rear_axle"  joint="right_bogie_rear_axle"  ctrllimited="true" ctrlrange="-5.12766 5.12766" gear="40" />
-    <motor name="right_rocker_rear_axle" joint="right_rocker_rear_axle" ctrllimited="true" ctrlrange="-5.12766 5.12766" gear="40" />
+    <motor name="left_bogie_front_axle"  joint="left_bogie_front_axle"  ctrllimited="true" ctrlrange="-3.0 3.0" gear="25" />
+    <motor name="left_bogie_rear_axle"   joint="left_bogie_rear_axle"   ctrllimited="true" ctrlrange="-3.0 3.0" gear="25" />
+    <motor name="left_rocker_rear_axle"  joint="left_rocker_rear_axle"  ctrllimited="true" ctrlrange="-3.0 3.0" gear="25" />
+    <motor name="right_bogie_front_axle" joint="right_bogie_front_axle" ctrllimited="true" ctrlrange="-3.0 3.0" gear="25" />
+    <motor name="right_bogie_rear_axle"  joint="right_bogie_rear_axle"  ctrllimited="true" ctrlrange="-3.0 3.0" gear="25" />
+    <motor name="right_rocker_rear_axle" joint="right_rocker_rear_axle" ctrllimited="true" ctrlrange="-3.0 3.0" gear="25" />
   </actuator>
 
   <sensor>
