@@ -7609,3 +7609,1692 @@ WARNING: OpenGL error 0x506 in or before mjr_makeContext
 Mon Dec  1 14:13:27 2025
 WARNING: OpenGL error 0x506 in or before mjr_makeContext
 
+Mon Dec  1 16:21:41 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:21:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:05 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:05 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:14 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:14 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:34 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:34 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:37 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:37 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:58 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:22:58 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:01 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:01 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:04 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:04 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:27 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:30 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:30 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:42 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:42 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:45 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:45 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:48 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:48 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:54 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:54 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:57 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:23:57 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:00 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:00 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:15 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:15 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:18 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:18 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:24 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:24 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:27 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:27 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:30 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:30 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:38 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:41 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:41 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:24:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:05 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:05 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:14 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:14 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:20 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:20 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:34 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:34 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:37 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:37 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:25:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:23 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:42 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:42 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:26:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:42 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:42 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:27:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:52 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:28:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:23 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:23 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:33 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:29:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:01 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:01 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:30:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:14 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:14 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:45 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:50 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:31:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:32:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:33:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:33:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:33:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Mon Dec  1 16:33:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:08 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:19 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:23 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:23 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:34 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:34 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:38 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:58 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:32:58 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:02 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:27 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:27 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:40 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:47 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:33:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:24 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:24 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:38 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:38 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:41 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:41 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:45 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:45 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:48 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:48 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:55 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:34:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:17 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:21 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:24 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:24 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:31 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:45 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:54 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:54 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:58 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:35:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:04 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:04 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:11 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:15 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:15 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:18 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:18 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:22 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:25 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:28 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:35 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:38 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:38 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:41 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:41 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:44 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:48 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:48 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:51 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:54 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:54 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:57 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:36:57 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:00 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:01 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:04 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:04 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:07 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:10 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:13 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:20 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:20 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:23 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:23 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:26 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:29 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:32 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:36 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:39 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:43 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:46 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:49 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:53 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:56 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:37:59 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:03 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:06 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:09 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:12 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
+Wed Dec  3 21:38:16 2025
+WARNING: OpenGL error 0x506 in or before mjr_makeContext
+
